@@ -1,18 +1,15 @@
 @font-face {
   font-family: 'SB Aggro';
-  font-weight: bold;
   font-weight: 700;
   src: url("https://cdn.jsdelivr.net/gh/glocy/files@d6bc9c5b24b44a1b62501ba072bdabb527638f09/SB-%EC%96%B4%EA%B7%B8%EB%A1%9C-B.woff") format('woff');
 }
 @font-face {
   font-family: 'SB Aggro';
-  font-weight: medium;
   font-weight: 500;
   src: url("https://cdn.jsdelivr.net/gh/glocy/files@d6bc9c5b24b44a1b62501ba072bdabb527638f09/SB-%EC%96%B4%EA%B7%B8%EB%A1%9C-M.woff") format('woff');
 }
 @font-face {
   font-family: 'SB Aggro';
-  font-weight: light;
   font-weight: 300;
   src: url("https://cdn.jsdelivr.net/gh/glocy/files@d6bc9c5b24b44a1b62501ba072bdabb527638f09/SB-%EC%96%B4%EA%B7%B8%EB%A1%9C-L.woff") format('woff');
 }
